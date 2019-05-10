@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/siddi/vlsi/homework/homework7_2
+Efulladder_hw5_algo
+Z0 w1557459240
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/siddi/vlsi/homework/homework10
+Z4 8C:/Users/siddi/vlsi/homework/homework10/unit_adder.vhd
+Z5 FC:/Users/siddi/vlsi/homework/homework10/unit_adder.vhd
+l0
+L7
+Vf_C<mnUJOm@0m@`UYNDO12
+!s100 ]4W0DgY2ahb:F[kY85JRG0
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1557459245
+!i10b 1
+Z8 !s108 1557459245.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/homework/homework10/unit_adder.vhd|
+Z10 !s107 C:/Users/siddi/vlsi/homework/homework10/unit_adder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Afulladder_hw5_algo_arch
+R1
+R2
+DEx4 work 18 fulladder_hw5_algo 0 22 f_C<mnUJOm@0m@`UYNDO12
+l15
+L14
+VF_<V_fL^22ID4F@?bclV?0
+!s100 _M9>_VYI:GMl9dcd9W=kg3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etest_bench
+Z13 w1557458334
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z15 8C:/Users/siddi/vlsi/homework/homework10/test_bench.vhd
+Z16 FC:/Users/siddi/vlsi/homework/homework10/test_bench.vhd
+l0
+L10
+VU3VZl=dG?6?PmRGznFbZJ2
+!s100 fS2jT@7agP2`m?ih6C3903
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/homework/homework10/test_bench.vhd|
+Z18 !s107 C:/Users/siddi/vlsi/homework/homework10/test_bench.vhd|
+!i113 1
+R11
+R12
+Atb_arch
+Z19 DEx4 work 18 fulladder_hw5_algo 0 22 9QgZCbC^E9A60AIUS8VlB0
+R14
+R1
+R2
+DEx4 work 10 test_bench 0 22 U3VZl=dG?6?PmRGznFbZJ2
+l21
+L13
+V7QN]7^Q@gESS6@Jk0DS`c0
+!s100 J6aLg51iI4BD<TK[<Sf740
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
